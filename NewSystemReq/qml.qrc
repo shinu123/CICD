@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ExtraFeture.qml</file>
+        <file>Homemenu.qml</file>
+        <file>Camera.qml</file>
+        <file>LabelStyle.qml</file>
+        <file>Buttonstyles.qml</file>
+        <file>Climate.qml</file>
+        <file>Back.qml</file>
+        <file>AmbientLighting.qml</file>
+        <file>SettingScreen.qml</file>
+        <file>Error.qml</file>
+        <file>Clock.qml</file>
+    </qresource>
+</RCC>
